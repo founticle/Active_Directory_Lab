@@ -1,7 +1,7 @@
 # Active Directory Lab
 
 
-This Lab setup includes the following tasks:
+This lab setup includes the following tasks:
 
 ➡ Installing and setting up Active Directory on a Win Server 2016 and promote it to a domain controller. Making the Domain Controller's IPv4 address static.
 
