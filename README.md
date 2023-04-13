@@ -1,4 +1,4 @@
-# Active_Directory_Lab
+# Active Directory Lab
 
 
 This Lab setup includes the following tasks:
