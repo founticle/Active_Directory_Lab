@@ -20,4 +20,4 @@ This lab setup includes the following tasks:
 ➡ Using public-private key pair, connecting the Active Directory Windows server to Linux via SSH
 
 
-You can find the PDF that includes a comprehensive, step-by-step explanation of the above tasks.
+You can find the PDF in the files section that includes a comprehensive, step-by-step explanation of the above tasks.
